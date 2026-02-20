@@ -1,0 +1,6 @@
+# sbt
+.bsp
+target
+
+# IntelliJ IDEA
+.idea
